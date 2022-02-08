@@ -16,3 +16,6 @@ Then open a browser and type:
 localhost:3000
 ```
 Then enter a city name for which you want to get a weather forecast.
+
+## Forecast example
+![image](images/weather-api-app.png?raw=true)
