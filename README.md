@@ -22,3 +22,7 @@ Then enter a city name for which you want to get a weather forecast.
 
 ## Forecast example
 ![image](images/weather-api-app.png?raw=true)
+
+## Acknowledgment
+
+I created this project while studying [Udemy online bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/).
